@@ -1,7 +1,7 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-//new quickone
+//newquick one
 public class QuickWork {
 	
 	public static WebDriver driver;
